@@ -28,13 +28,13 @@
 
   
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/haproxy/main/haproxy.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/amir12120/haproxy2/main/haproxy.sh --ipv4)
 ```
 
 
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/haproxy/main/haproxy2.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/amir12120/haproxy2/main/haproxy2.sh)
 ```
 
 
